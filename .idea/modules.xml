@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/avails_analytics_microservices.iml" filepath="$PROJECT_DIR$/.idea/avails_analytics_microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_copleted/.idea/modules/ui_copleted.iml" filepath="$PROJECT_DIR$/ui_copleted/.idea/modules/ui_copleted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_copleted/.idea/modules/ui_copleted-build.iml" filepath="$PROJECT_DIR$/ui_copleted/.idea/modules/ui_copleted-build.iml" />
+    </modules>
+  </component>
+</project>
